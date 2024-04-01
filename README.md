@@ -2,7 +2,7 @@
 
 This is a new project I have been working on. The data has been taken from 3 different databases but the idea is to work on it as if it was all part of a single project.
 
-> Although the databases correspond to different projects, they have been adapted to give congruence to the cafeteria project.
+> Although the databases correspond to different projects, they have been adapted to give congruence to the coffee shop project.
 
 🎯 The idea comes from a simulation where a data analyst starts working in a coffee shop. The project is divided into 3 sections: the first one where we have the recipes of each drink and the prices, this helps us to calculate the value of each drink, which is the most profitable and the least. The second is the analysis of sales in its two branches along with a dashboard that illustrates those results. And the last part is an analysis of the reviews of each store.
 
